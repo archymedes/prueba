@@ -1,2 +1,2 @@
-# prueba
-Este es el repositorio que creamos en el meetup de Rladies
+# MeetUp R-Ladies
+Este es el repositorio que creamos en el meetup de R-Ladies
